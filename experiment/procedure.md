@@ -73,25 +73,25 @@ Basic idea to set the incident angle is the ‘angle of incident and angle of re
 Step 1: View the direct ray without the prism. Set the vernier and main scale in 0-0 in 0-180 position.
 
 
-<div style="float: right; margin-left: 20px;"> <img src="./images/figure3.jpg" alt="Figure 1" style="max-width: 100px; height: auto;"> <p style="text-align: center; font-size: smaller; font-style: italic;"></p> </div>
+<div style="float: right; margin-left: 20px;"> <img src="./images/figure3.jpg" alt="Figure 1" style="max-width: 200px; height: auto;"> <p style="text-align: center; font-size: smaller; font-style: italic;"></p> </div>
 
 Step 2: For incident angle i ( say 30), rotate the Telescope to 180-2*i degrees in the anti-clock wise direction. (make sure the 0 line on the one of the vernier scale coincide with 120 in the main scale), see fig (2)
 
 Step 3: Rotate the prism table in the clockwise direction so as to get the reflected image of slit from one face of the prism. And make it coincide with cross wire of the telescope, without rotating the telescope. Note the reading as θ. See Fig(3)
 
-<div style="float: left; margin-left: 20px;"> <img src="./images/figure4.jpg" alt="Figure 1" style="max-width: 100px; height: auto;"> <p style="text-align: center; font-size: smaller; font-style: italic;"></p> </div>
+<div style="float: left; margin-left: 20px;"> <img src="./images/figure4.jpg" alt="Figure 1" style="max-width: 250px; height: auto;"> <p style="text-align: center; font-size: smaller; font-style: italic;"></p> </div>
 
 Step 4: Rotate the telescope in clock wise direction, without disturbing the vernier table, to find the emergent ray from other face of the prism. See fig(4)
 
 
-<div style="float: right; margin-left: 20px;"> <img src="./images/figure5.jpg" alt="Figure 1" style="max-width: 100px; height: auto;"> <p style="text-align: center; font-size: smaller; font-style: italic;"></p> </div>
+<div style="float: right; margin-left: 20px;"> <img src="./images/figure5.jpg" alt="Figure 1" style="max-width: 250px; height: auto;"> <p style="text-align: center; font-size: smaller; font-style: italic;"></p> </div>
 
 Step 5: Make the slit coincide with the cross wire of telescope.
 
 Step 6: Note down corresponding vernier 1 and vernier II reading. This reading is called refracted reading.
 
 Step 7: to find the direct ray reading- remove the prism by clicking “remove prism” button.
-<div style="float: left; margin-left: 20px;"> <img src="./images/figure6.jpg" alt="Figure 5" style="max-width: 100px; height: auto;"> <p style="text-align: center; font-size: smaller; font-style: italic;"></p> </div>
+<div style="float: left; margin-left: 20px;"> <img src="./images/figure6.jpg" alt="Figure 5" style="max-width: 250px; height: auto;"> <p style="text-align: center; font-size: smaller; font-style: italic;"></p> </div>
 
 Step 8: place the telescope in line with the collimator. (do not change vernier table position). See fig(5)
 
