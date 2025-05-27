@@ -2,36 +2,38 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "As the angle of incidence increases, the angle of deviation initially ________ and then ________",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "decreases; remains constant",
+        "b": "increases; decreases",
+        "c": "increases; increases further",
+        "d": "decreases; increases"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
+      
+      "correctAnswer": "d",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "In the i–d curve of a prism, the minimum point of the curve corresponds to:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "The largest deviation",
+        "b": "The average deviation",
+        "c": "The minimum deviation",
+        "d": "The refracting angle of the prism"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+     {
+      "question": "Which material has the lowest refractive index from the list below?",
+      "answers": {
+        "a": "Glass",
+        "b": "Diamond",
+        "c": "Water",
+        "d": "Quartz"
       },
+      
       "correctAnswer": "c",
       "difficulty": "beginner"
     }

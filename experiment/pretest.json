@@ -2,37 +2,39 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "What type of telescope is used in a spectrometer?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Galileo's telescope(Refracting type, objective-plano convex, eye piece-plano concave)",
+        "b": "Catoptrics telescope(Reflection)",
+        "c": "Dioptric telescope(Refractive)",
+        "d": "Catadioptric telescope(specifically shaped mirrors and lenses)"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
+     
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "In the i–d curve of a prism, the minimum point of the curve corresponds to:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "The largest deviation",
+        "b": "The average deviation",
+        "c": "The minimum deviation",
+        "d": "The refracting angle of the prism"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+      
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What shape is typically used for the prism in a spectrometer experiment?",
+      "answers": {
+        "a": "Cylindrical prism",
+        "b": "Equilateral triangular prism",
+        "c": "Rectangular prism",
+        "d": "Square-based prism"
+      },
+      
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
