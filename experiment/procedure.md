@@ -58,7 +58,7 @@ Refer to "Angle of prism" experiment.
 
 Consider ab is the incident ray of light on one face of the prism. i is the angle of incident and d is the angle of deviation.
 
-Basic idea to set the incident angle is the ‘angle of incident and angle of reflection is same’. There for reflected ray from the surface of the prism is at an angle 180-2*i from c. 
+Basic idea to set the incident angle is the ‘angle of incident and angle of reflection is same’. Therefore reflected ray from the surface of the prism is at an angle 180-2*i from c. 
 
 
 <div style="display: block; margin-left: auto; margin-right: auto; text-align: center; width: fit-content;">
