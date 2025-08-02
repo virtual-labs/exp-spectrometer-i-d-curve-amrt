@@ -1,0 +1,41 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "As the angle of incidence increases, the angle of deviation initially ________ and then ________",
+      "answers": {
+        "a": "decreases; remains constant",
+        "b": "increases; decreases",
+        "c": "increases; increases further",
+        "d": "decreases; increases"
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In the i–d curve of a prism, the minimum point of the curve corresponds to:",
+      "answers": {
+        "a": "The largest deviation",
+        "b": "The average deviation",
+        "c": "The minimum deviation",
+        "d": "The refracting angle of the prism"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+     {
+      "question": "Which material has the lowest refractive index from the list below?",
+      "answers": {
+        "a": "Glass",
+        "b": "Diamond",
+        "c": "Water",
+        "d": "Quartz"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+  ]
+}
